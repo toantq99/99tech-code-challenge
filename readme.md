@@ -1,10 +1,32 @@
-# 99Tech Code Challenge #1 #
+# 99Tech Code Challenge #1
 
-Note that if you fork this repository, your responses may be publicly linked to this repo.  
-Please submit your application along with the solutions attached or linked.   
+## Setup
 
-It is important that you minimally attempt the problems, even if you do not arrive at a working solution.
+```bash
+npm install
+```
 
-## Submission ##
-You can either provide a link to an online repository, attach the solution in your application, or whichever method you prefer.
-We're cool as long as we can view your solution without any pain.
+## Testing Solutions
+
+### Problem 1: Three Ways to Sum to n
+**Solution:** [src/problem1/index.ts](src/problem1/index.ts)
+
+Run tests:
+```bash
+npm test
+```
+
+### Problem 2: Currency Swap Form
+**Solution:** [src/problem2/](src/problem2/)
+
+Run the application:
+```bash
+npm run dev
+```
+
+Then open http://localhost:5173 (or the port shown in terminal) in your browser.
+
+### Problem 3: Code Analysis & Refactoring
+**Solution:** [src/problem3/README.md](src/problem3/README.md)
+
+View the complete analysis and refactored code in the README document.
