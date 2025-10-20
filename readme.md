@@ -27,6 +27,6 @@ npm run dev
 Then open http://localhost:5173 (or the port shown in terminal) in your browser.
 
 ### Problem 3: Code Analysis & Refactoring
-**Solution:** [src/problem3/solution.md](src/problem3/solution.md)
+**Solution:** [src/problem3/README.md](src/problem3/README.md)
 
-View the complete analysis and refactored code in the solution document.
+View the complete analysis and refactored code in the README document.
